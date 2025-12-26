@@ -59,7 +59,7 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 - Truth table created using five sensor inputs and four motor outputs
 - Karnaugh map (K-map) minimization applied
 ### Karnaugh map of the OUTPUTS:
-![Karnaugh Map](K_map.png)
+![Karnaugh Map](K_Map.png)
 - Implemented using:
   - 14 AND gates
   - 6 OR gates
