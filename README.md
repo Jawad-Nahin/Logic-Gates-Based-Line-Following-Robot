@@ -55,6 +55,14 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 
 ---
 
+## Methodology
+
+### Block diagram of the working process.
+![Flowchart](Flowchart.png)
+
+---
+
+
 ## 🧮 Digital Logic Design
 - Truth table created using five sensor inputs and four motor outputs
 ### Truth Table:
