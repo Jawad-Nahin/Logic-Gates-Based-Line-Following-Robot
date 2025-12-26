@@ -115,11 +115,6 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 
 ---
 
-## 💰 Cost Analysis
-**Total estimated cost:** **1280 BDT**  
-(Additional cost incurred for track construction)
-
----
 
 ## 🎓 Academic Information
 - **Course:** Digital Electronics Laboratory (EEE-314)
