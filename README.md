@@ -91,7 +91,7 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 ![Top View](Top_View.png)
 
 ### Final Assembled Robot
-![Final Robot](Images/Final_Robot.jpg)
+![Final Robot](Isometric_view.png)
 
 ---
 
