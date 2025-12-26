@@ -85,6 +85,15 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 - Sensitive to sensor alignment and noise
 
 ---
+## 🖼️ Robot Images
+
+### Top View of the Robot
+![Top View](Images/Top_View.png)
+
+### Final Assembled Robot
+![Final Robot](Images/Final_Robot.jpg)
+
+---
 
 ## ✅ Advantages
 - No microcontroller required
