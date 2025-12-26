@@ -83,6 +83,9 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 ### Logic Circuit Diagram
 ![Logic Circuit Diagram](Logic_CKT.png)
 
+### Main Circuit Diagram
+![Main Circuit](Main_CKT.png)
+
 ---
 
 
