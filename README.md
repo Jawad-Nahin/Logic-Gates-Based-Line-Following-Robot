@@ -55,7 +55,7 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 
 ---
 
-## Methodology
+## Working Process
 
 ### Block diagram of the working process.
 ![Flowchart](Flowchart.png)
@@ -77,6 +77,14 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 - Built entirely with TTL logic ICs
 
 ---
+
+## Circuit Diagram
+
+### Logic Circuit Diagram
+![Logic Circuit Diagram](Logic_CKT.png)
+
+---
+
 
 ## 🧪 Implementation
 - Components mounted on a foamboard chassis
