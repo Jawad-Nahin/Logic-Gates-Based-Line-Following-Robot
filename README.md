@@ -88,7 +88,7 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 ## 🖼️ Robot Images
 
 ### Top View of the Robot
-![Top View](Images/Top_View.jpg)
+![Top View](Top_View.jpg)
 
 ### Final Assembled Robot
 ![Final Robot](Images/Final_Robot.jpg)
