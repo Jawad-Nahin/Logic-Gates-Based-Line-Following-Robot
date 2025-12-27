@@ -86,6 +86,9 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
 ### Main Circuit Diagram
 ![Main Circuit](Main_CKT.jpg)
 
+### Circuit Schematic
+![Circuit Schematic](Schematic_Logic-Gate-Based-LFR_2025-12-27.png)
+
 ---
 
 
