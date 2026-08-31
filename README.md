@@ -75,7 +75,17 @@ The logic outputs are derived from a **truth table**, optimized using **Karnaugh
   - 6 OR gates
   - 4 NOT gates
 - Built entirely with TTL logic ICs
+## Boolean Equations for Motor Outputs
 
+### Simplified Expressions
+
+$$ML0 = C0 + R1 + (\overline{L1} \cdot R0) + (L0 \cdot R0)$$
+
+$$ML1 = (L1 \cdot \overline{L0} \cdot \overline{C0} \cdot \overline{R1}) + (L1 \cdot \overline{C0} \cdot R0 \cdot \overline{R1}) + (L1 \cdot L0 \cdot C0 \cdot R0 \cdot R1)$$
+
+$$MR0 = C0 + L1 + (L0 \cdot \overline{R0}) + (\overline{R0} \cdot \overline{R1})$$
+
+$$MR1 = (R1 \cdot \overline{C0} \cdot \overline{L1}) + (R1 \cdot \overline{C0} \cdot \overline{L0}) + (L1 \cdot L0 \cdot C0 \cdot R0 \cdot R1)$$
 ---
 
 ## Circuit Diagram
